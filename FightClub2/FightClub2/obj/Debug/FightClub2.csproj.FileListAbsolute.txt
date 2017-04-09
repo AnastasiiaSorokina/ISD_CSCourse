@@ -1,0 +1,8 @@
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\bin\Debug\FightClub2.exe.config
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\bin\Debug\FightClub2.exe
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\bin\Debug\FightClub2.pdb
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\obj\Debug\FightClub2.Form1.resources
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\obj\Debug\FightClub2.Properties.Resources.resources
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\obj\Debug\FightClub2.csproj.GenerateResource.Cache
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\obj\Debug\FightClub2.exe
+D:\DISK\PROGRAMS\C#\gitRepository\ISD_CSCourse\FightClub2\FightClub2\obj\Debug\FightClub2.pdb
